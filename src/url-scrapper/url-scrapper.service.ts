@@ -127,6 +127,6 @@ export class UrlScrapperService implements OnApplicationBootstrap {
   }
 
   private async scrapeUrlFromSite2() {
-    console.log('ddd');
+    console.log('Site2 scraper start!');
   }
 }
